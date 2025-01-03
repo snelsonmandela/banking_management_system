@@ -439,7 +439,7 @@ void welcome()
 {
 	std::cout << "\t\t|-----------------------------------------------|" << "\n";
 	std::cout << "\t\t|                                               |" << "\n"; 
-	std::cout << "\t\t|     WELCOME TO YRNCOLLO BANKING SYSTEM        |" << "\n";
+	std::cout << "\t\t|     WELCOME TO SBI BANKING SYSTEM        |" << "\n";
 	std::cout << "\t\t|                                               |" << "\n"; 
 	std::cout << "\t\t|-----------------------------------------------|" << "\n";
 	std::cout << "\t\t|\t Choose your option:\t                |" << "\n"; 
